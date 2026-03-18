@@ -16,9 +16,8 @@ author:
       url: "https://github.com/JayanthSaiKaranam27"
     - label: "LinkedIn"
       url: "https://linkedin.com/in/karanam-jayanth/"
-      nav:
-  - title: "Home"
-  nav:
+
+nav:
   - title: "Home"
     url: /
   - title: "Blog"
@@ -29,5 +28,3 @@ author:
     url: /talks/
   - title: "Projects"
     url: /projects/
-
-
