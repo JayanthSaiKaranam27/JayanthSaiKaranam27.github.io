@@ -18,6 +18,8 @@ author:
       url: "https://linkedin.com/in/karanam-jayanth/"
       nav:
   - title: "Home"
+  nav:
+  - title: "Home"
     url: /
   - title: "Blog"
     url: /blog/
@@ -27,4 +29,5 @@ author:
     url: /talks/
   - title: "Projects"
     url: /projects/
+
 
