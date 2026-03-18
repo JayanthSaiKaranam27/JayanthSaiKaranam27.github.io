@@ -16,3 +16,15 @@ author:
       url: "https://github.com/JayanthSaiKaranam27"
     - label: "LinkedIn"
       url: "https://linkedin.com/in/karanam-jayanth/"
+      nav:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "Papers"
+    url: /papers/
+  - title: "Talks"
+    url: /talks/
+  - title: "Projects"
+    url: /projects/
+
