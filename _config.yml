@@ -5,6 +5,9 @@ url: "https://JayanthSaiKaranam27.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "mint" # options: default, dark, contrast, neon, air, mint
+sass:
+  style: compressed
+
 
 plugins:
   - jekyll-include-cache
